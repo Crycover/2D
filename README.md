@@ -2,6 +2,8 @@
 
 2D Shooter Game Mecanics,
 
+https://drive.google.com/drive/folders/1mL6scuH-GzNwWP85hp5LA0DEi121LODV?usp=sharing
+
 Dinamik Hareket Sistemi,
 
 Mouse takibi yapan silah,
@@ -14,4 +16,6 @@ Player'ı takip eden düşman silahı,
 
 Her silah için farklı ateş etme sistemi,
 
-https://drive.google.com/drive/folders/1mL6scuH-GzNwWP85hp5LA0DEi121LODV?usp=sharing
+Geliştirmesi ilerleyen zamanlarda devam edecektir. AssetStore'da yayınlamak üzere hazırlanıyor. Yakında portföyde kaldıracağım.
+
+Uploading 2D Shooter Game.mp4…
