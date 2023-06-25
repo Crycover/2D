@@ -14,4 +14,4 @@ Player'ı takip eden düşman silahı,
 
 Her silah için farklı ateş etme sistemi,
 
-https://drive.google.com/drive/folders/1dbOL4kJjl7QSsL7PK6YZQDtERQpfvO9T?usp=sharing
+https://drive.google.com/drive/folders/1mL6scuH-GzNwWP85hp5LA0DEi121LODV?usp=sharing
